@@ -1,7 +1,7 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
   wokwi_id:     445265826672030721       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "Adder"      # Project title
+  title:        "The Adder"      # Project title
   author:       "Darius Pirnia"      # Your name
   discord:      "ddman22"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "this adds numbers in the first 4 and second 4 bits of input"      # One line description of what your project does
