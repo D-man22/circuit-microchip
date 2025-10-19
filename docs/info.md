@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It adds 2 4 bit input together
 
 ## How to test
 
-Explain how to use your project
+You can mess arround with the swithces which is kinda fun to see what turns on!
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+I used a bit of components like 1 resistor, 2 buttons, 1 2-input switch, 1 switch array
